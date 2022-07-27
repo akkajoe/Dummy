@@ -14,3 +14,4 @@ def multiplier(n):
             n -= 1
         print(mult)
 multiplier(n)
+
